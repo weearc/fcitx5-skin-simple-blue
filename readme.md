@@ -4,13 +4,13 @@ A simple theme for fcitx5 modified from [Simple](https://github.com/iovxw/fcitx5
 
 ## Screenshot
 
-- InputMethod Change Content
+- InputMethod Change Content</br>
 ![Content](screenshot/screenshot-content.png)</br>
 
-- Input Horizontal
+- Input Horizontal</br>
 ![horizontal](screenshot/screenshot-input.png)</br>
 
-- Input Vertial
+- Input Vertial</br>
 ![vertical](screenshot/screenshot-input-vertical.png)</br>
 
 ## Install
