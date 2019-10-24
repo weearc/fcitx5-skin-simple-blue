@@ -4,12 +4,14 @@ A simple theme for fcitx5 modified from [Simple](https://github.com/iovxw/fcitx5
 
 ## Screenshot
 
-InputMethod Change Content
-![Content](screenshot/screenshot-content.png)
-Input Horizontal
-![horizontal](screenshot/screenshot-input.png)
-Input Vertial
-![vertical](screenshot/screenshot-input-vertical.png)
+- InputMethod Change Content
+![Content](screenshot/screenshot-content.png)</br>
+
+- Input Horizontal
+![horizontal](screenshot/screenshot-input.png)</br>
+
+- Input Vertial
+![vertical](screenshot/screenshot-input-vertical.png)</br>
 
 ## Install
 ### Fcitx5
@@ -63,7 +65,7 @@ Layout=
 0=Default
 ```
 
-If you want to change settings in kde system settings, you should install package `fcitx5-kcm-git` 
+If you want to change settings in kde system settings, you should install package `fcitx5-kcm-git`.
 
 ### Fcitx5-skin-simple-blue
 First, clone the repo to `~/.local/shre/fcitx5/themes/`
@@ -79,6 +81,8 @@ Add the following to your `~/.config/fcitx5/conf/classicui.conf`
 Vertical Candidate List=False
 Theme=simple-blue
 ```
+
+**Every time you change the settings please reload fcitx5**
 
 ## License
 
