@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="21.304649mm"
+   height="24.120947mm"
+   viewBox="0 0 21.304649 24.120947"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="former.svg"
+   inkscape:export-filename="/home/ddqi/位图.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#c6c6c6"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:zoom="14.168126"
+     inkscape:cx="37.513784"
+     inkscape:cy="54.982573"
+     inkscape:window-width="1366"
+     inkscape:window-height="683"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2">
+    <sodipodi:guide
+       position="4.2073504,14.060715"
+       orientation="0,-1"
+       id="guide1062" />
+    <sodipodi:guide
+       position="10.714371,10.59841"
+       orientation="1,0"
+       id="guide1064" />
+    <sodipodi:guide
+       position="-21.953884,10.060315"
+       orientation="0,-1"
+       id="guide1066" />
+    <sodipodi:guide
+       position="8.2214551,11.119723"
+       orientation="0,-1"
+       id="guide1150" />
+    <sodipodi:guide
+       position="10.148554,10.543585"
+       orientation="1,0"
+       id="guide1152" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3339"
+       x="-0.029445659"
+       y="-0.0075354653"
+       width="1.0588913"
+       height="1.0150709">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.012560365"
+         id="feGaussianBlur3341" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="图层 2">
+    <path
+       style="fill:#4285f4;fill-opacity:0.903401;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3339)"
+       d="m 13.016069,5.9994508 -1.023746,2.0019698 1.023746,1.9984302 z"
+       id="path1187"
+       inkscape:export-filename="/home/ddqi/fcitx5-theme/simple-blue/next.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500"
+       transform="matrix(-0.5467994,0,0,0.26482543,17.264174,11.412417)" />
+    <rect
+       style="opacity:0.970312;fill:#000000;fill-opacity:0.000929709;stroke:none;stroke-width:0.0539524;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:75"
+       id="rect5641"
+       width="0.17088826"
+       height="1.0594083"
+       x="-10.146995"
+       y="13.001224"
+       ry="1.4963287e-07"
+       inkscape:export-filename="/home/ddqi/fcitx5-theme/simple-blue/next.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500"
+       transform="scale(-1,1)" />
+    <rect
+       style="opacity:0.970312;fill:#000000;fill-opacity:0.00171964;stroke:none;stroke-width:0.0541979;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:75"
+       id="rect5641-3"
+       width="0.17244737"
+       height="1.0594083"
+       x="-10.879284"
+       y="13.001224"
+       ry="1.4963287e-07"
+       inkscape:export-filename="/home/ddqi/fcitx5-theme/simple-blue/next.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500"
+       transform="scale(-1,1)" />
+  </g>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.8437106,4.0607806)">
+    <rect
+       style="opacity:0.970312;fill:#4285f4;fill-opacity:0;stroke:none;stroke-width:0.1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:75"
+       id="rect4939"
+       width="0.55984199"
+       height="1.2758601"
+       x="-12.550548"
+       y="8.940443"
+       ry="1.271284e-07"
+       inkscape:export-filename="/home/ddqi/fcitx5-theme/simple-blue/next.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500"
+       transform="scale(-1,1)" />
+  </g>
+</svg>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="23.96875mm"
+   height="22.645834mm"
+   viewBox="0 0 23.96875 22.645834"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="highlight.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="22.627417"
+     inkscape:cx="45.409514"
+     inkscape:cy="40.923805"
+     inkscape:window-width="1366"
+     inkscape:window-height="683"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="71.122013,12.444863"
+       orientation="0,-1"
+       id="guide868" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1322"
+       x="-0.022499999"
+       y="-0.03375"
+       width="1.045"
+       height="1.0675">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.037207031"
+         id="feGaussianBlur1324" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-31.738308,-52.173019)">
+    <rect
+       style="opacity:0.970312;fill:#f8f8f8;fill-opacity:0.47058824;stroke-width:0.84754;stroke-linejoin:round;stroke-dashoffset:75;filter:url(#filter1322)"
+       id="rect866"
+       width="3.96875"
+       height="2.6458333"
+       x="41.738308"
+       y="62.173019"
+       ry="0.20097086"
+       inkscape:export-filename="/home/ddqi/fcitx5-theme/simple-blue/highlight.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+  </g>
+</svg>

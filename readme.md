@@ -1,6 +1,6 @@
 # simple blue
-
-A simple theme for fcitx5 modified from [Simple](https://github.com/iovxw/fcitx5-simple-theme) and [Fcitx5 Default](https://github.com/fcitx/fcitx5).
+A simple theme build using Inscape and guided by [Margaret Su’s tutorial](https://forum.suse.org.cn/t/fcitx-artwork-fcitx/731/15)
+<s> A simple theme for fcitx5 modified from [Simple](https://github.com/iovxw/fcitx5-simple-theme) and [Fcitx5 Default](https://github.com/fcitx/fcitx5).</s>
 
 ## Screenshot
 
@@ -18,9 +18,9 @@ A simple theme for fcitx5 modified from [Simple](https://github.com/iovxw/fcitx5
 For Arch Linux users:</br>
 Try out fcitx5 by using the following command:
 ```bash
-yay -S fcitx5-git fcitx5-qt5-git fcitx5-gtk-git fcitx5-chinese-addons-git
+pacman -S fcitx5 fcitx5-qt5 fcitx5-gtk fcitx5-chinese-addons
 ```
-If you have added the `Arch Linux CN Repo`, please install directly from archlinuxcn.</br>
+If you have added the `Arch Linux CN Repo`, you can install directly from archlinuxcn.</br>
 
 Then add the following lines:
 - xorg: to `~/.xprofile`
@@ -65,7 +65,7 @@ Layout=
 0=Default
 ```
 
-If you want to change settings in kde system settings, you should install package `fcitx5-kcm-git`.
+If you want to change settings in kde system settings, you should install package `fcitx5-kcm`.
 
 ### Fcitx5-skin-simple-blue
 First, clone the repo to `~/.local/shre/fcitx5/themes/`
@@ -81,6 +81,8 @@ Add the following to your `~/.config/fcitx5/conf/classicui.conf`
 Vertical Candidate List=False
 Theme=simple-blue
 ```
+
+If using vertical input panel, you'd better replace the file `input_panel.png` with `input_panel_vertical.png` and rename it to `input_panel.png`
 
 **Every time you change the settings please reload fcitx5**
 
