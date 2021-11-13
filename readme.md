@@ -18,10 +18,8 @@ A simple theme build using Inkscape and guided by [Marguerite Su’s tutorial](h
 For Arch Linux users:</br>
 Try out fcitx5 by using the following command:
 ```bash
-pacman -S fcitx5 fcitx5-qt5 fcitx5-gtk fcitx5-chinese-addons
+pacman -S fcitx5-im fcitx5-chinese-addons
 ```
-If you have added the `Arch Linux CN Repo`, you can install directly from archlinuxcn.</br>
-
 Then add the following lines:
 - xorg: to `~/.xprofile`
 
