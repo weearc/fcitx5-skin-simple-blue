@@ -1,5 +1,5 @@
 # simple blue
-A simple theme build using Inkscape and guided by [Margaret Su’s tutorial](https://forum.suse.org.cn/t/fcitx-artwork-fcitx/731/15)
+A simple theme build using Inkscape and guided by [Marguerite Su’s tutorial](https://forum.suse.org.cn/t/fcitx-artwork-fcitx/731/15)</br>
 <s> A simple theme for fcitx5 modified from [Simple](https://github.com/iovxw/fcitx5-simple-theme) and [Fcitx5 Default](https://github.com/fcitx/fcitx5).</s>
 
 ## Screenshot
