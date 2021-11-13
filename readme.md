@@ -68,23 +68,29 @@ Layout=
 If you want to change settings in kde system settings, you should install package `fcitx5-kcm`.
 
 ### Fcitx5-skin-simple-blue
-First, clone the repo to `~/.local/shre/fcitx5/themes/`
+- For Archlinux users, you may simplely install package `fcitx5-simple-blue` from aur using your favourite aur helper. And set the theme to `simple-blue` either in your config file or in systemsettings.
+  ```bash
+  yaourt -S fcitx5-simple-blue
+  ```
 
-```bash
-git clone https://github.com/weearc/fcitx5-skin-simple-blue.git  ~/.local/share/fcitx5/themes/simple-blue
-```
+- For other distros:</br>
+  First, clone the repo to `~/.local/shre/fcitx5/themes/`
 
-Add the following to your `~/.config/fcitx5/conf/classicui.conf`
+  ```bash
+  git clone https://github.com/weearc/fcitx5-skin-simple-blue.git  ~/.local/share/fcitx5/themes/simple-blue
+  ```
 
-```ini
-# True, if you want a vertical candidate list
-Vertical Candidate List=False
-Theme=simple-blue
-```
+  Add the following to your `~/.config/fcitx5/conf/classicui.conf`
 
-If using vertical input panel, you'd better replace the file `input_panel.png` with `input_panel_vertical.png` and rename it to `input_panel.png`
+  ```ini
+  # True, if you want a vertical candidate list
+  Vertical Candidate List=False
+  Theme=simple-blue
+  ```
 
-**Every time you change the settings please reload fcitx5**
+  If using vertical input panel, you'd better replace the file `input_panel.png` with `input_panel_vertical.png` and rename it to `input_panel.png`
+
+  **Every time you change the settings please reload fcitx5**
 
 ## License
 
